@@ -7,7 +7,7 @@ function getRandomInt(min, max) {
 }
 
 button.onclick = function changeColour(){
-    let colours = ['red', "green", "blue"]
-    let i = getRandomInt(0, 2);
+    let colours = ['red', "green", "blue", "pink", "purple"]
+    let i = getRandomInt(0, 4);
     box.style.background = colours[i] ;
 }

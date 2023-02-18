@@ -2,10 +2,12 @@
     width : 400px ;
     height : 400px ;
     margin : 20px ;
-    background:  green;
+    
+    background:  purple;
     margin:  20px auto;
 }
 
 body{
     text-align: center;
+    background-color: #085b79;
 }
